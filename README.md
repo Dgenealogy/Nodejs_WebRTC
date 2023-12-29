@@ -7,4 +7,4 @@
 
 
 ## 결과
-https://drive.google.com/file/d/1omC6pCTO5JYb4CPDSGm2GmAgDv0EOfzE/view?usp=drive_link
+<img width="50%" src="https://github.com/Dgenealogy/Nodejs_WebRTC/assets/14217978/91887025-4ab2-4a49-b2f6-c4220b805ab3"/>
