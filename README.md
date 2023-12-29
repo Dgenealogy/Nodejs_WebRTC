@@ -7,4 +7,4 @@
 
 
 ## 결과
-<img width="50%" src="https://github.com/Dgenealogy/Nodejs_WebRTC/assets/14217978/91887025-4ab2-4a49-b2f6-c4220b805ab3"/>
+<img width="50%" src="https://github.com/Dgenealogy/Nodejs_WebRTC/assets/14217978/63ac9e02-7e38-4300-8ecc-211ba94ef0ee"/>
